@@ -1,0 +1,94 @@
+.PRINCIPAL1{
+	color:black;
+	background-repeat:no-repeat;
+  background-size:3050px 1005px;
+	font-family: 'Fira Sans', sans-serif;
+	margin-left:10px;
+	margin-top:3px;
+	margin-bottom: 25px;
+	background-color:#989fa5;
+}
+
+
+.PRINCIPAL{
+	background-image: url("https://www.hdwallpaperstop.in/wp-content/uploads/2018/03/Art-Blue-Fiber-Wallpaper.jpg");
+	height: auto%;
+	float:left;
+	width: 33%;
+	color: white;
+	border-radius:10px;
+	border: 2px solid white;
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.FONDO2{
+	background-image: url("http://freephotos.atguru.in/hdphotos/blue-abstract-wallpapers/1684736.jpg");
+	width:30%;
+	height:270px;
+	margin-bottom:20px;
+	margin-left:10px;
+	padding:10px;
+	float:left;
+}
+
+.FONDO4{
+	background-image: url("http://freephotos.atguru.in/hdphotos/blue-abstract-wallpapers/1684736.jpg");
+	width:30%;
+	height:120px;
+	margin-bottom:20px;
+	margin-left:10px;
+	padding-top:33px;
+	padding-right:12px;
+	float:left;
+}
+
+.FONDO3{
+	background-image: url("http://freephotos.atguru.in/hdphotos/blue-abstract-wallpapers/1684736.jpg");
+	width:30%;
+	height:370px;
+	margin-bottom:120px;
+	margin-left:10px;
+	padding-top: 10px;
+	padding-right:20px;
+	float:right;
+}
+
+#FOTO{
+	width: 150px;
+	height: 150px;
+	border-radius: 30%;
+	box-shadow: 0 0 0 4px rgb(255, 249, 234);
+}
+
+#IMAGENIG{
+	margin-top: 20px;
+	margin-right: 5px;
+	height: 30px;
+	width: 30px;
+}
+
+#IMAGENFB{
+	margin-top: 20px;
+	margin-left: 5px;
+	height: 30px;
+	width: 30px;
+}
+
+b{
+	color:white;
+	padding:1px;
+}
+
+h2{
+	color:white;
+	text-align:center;
+	height: auto;
+}
+
+p{
+	color:white;
+	padding:1px;
+	padding-right:60px;
+}
