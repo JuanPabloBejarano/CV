@@ -92,3 +92,8 @@ p{
 	padding:1px;
 	padding-right:60px;
 }
+
+ul{
+	color: white;
+	list-style: none;
+}
